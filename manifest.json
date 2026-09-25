@@ -1,0 +1,15 @@
+{
+  "name": "Code Buddy: Intro to Coding",
+  "short_name": "Code Buddy",
+  "description": "Five short lessons that teach the basics of coding, with an optional AI helper.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f4",
+  "theme_color": "#1f7a6d",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
